@@ -16,6 +16,8 @@ namespace App.Modelo
             set { id = value; }
         }
 
+hola Irula soy irula
+
         private string nombre;
 
         private string direccion;
